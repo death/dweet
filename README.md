@@ -57,6 +57,10 @@ Listen to dweets as they come:
               "lispmachines")
 ```
 
+# To Do
+
+Locking and alerts and stuff...
+
 # License
 
 MIT
